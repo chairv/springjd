@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/commio/commio.iml" filepath="$PROJECT_DIR$/commio/commio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jingdeng.iml" filepath="$PROJECT_DIR$/jingdeng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springjsp/springjsp.iml" filepath="$PROJECT_DIR$/springjsp/springjsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springtag/springtag.iml" filepath="$PROJECT_DIR$/springtag/springtag.iml" />
+    </modules>
+  </component>
+</project>

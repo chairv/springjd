@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+        xmlns:service="http://www.ittun.com/schema/user"
+       xsi:schemaLocation="
+       http://www.ittun.com/schema/user
+       http://www.ittun.com/schema/user.xsd
+       http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <service:user id="1" name="lili"/>
+</beans>
